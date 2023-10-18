@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meu perfil 
 
-<!--
-**rogeriosla556/rogeriosla556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rogerio Haluch Filho
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem Java Script
+- Utilizo esse espaço para organização e o compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contanto comigo 📫
+
+rogerio.haluch.filho@escola.pr.gov.br
+
+![gaming-monkey](https://github.com/rogeriosla556/rogeriosla556/assets/129303323/b7e457c8-f387-417f-9374-a863377a4503)
